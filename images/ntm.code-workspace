@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ntm",
+			"path": ".."
+		},
+		{
+			"name": "graphics",
+			"path": "../../../ntm/graphics"
+		}
+	],
+	"settings": {}
+}
